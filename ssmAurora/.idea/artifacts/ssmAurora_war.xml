@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssmAurora:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ssmAurora.war">
+      <element id="artifact" artifact-name="ssmAurora:war exploded" />
+    </root>
+  </artifact>
+</component>
